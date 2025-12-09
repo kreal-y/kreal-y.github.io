@@ -1,6 +1,6 @@
+# _toc.yml
 format: jb-book
 root: index
+
 chapters:
-  - file: Project 3
-
-
+  - file: Project_3
