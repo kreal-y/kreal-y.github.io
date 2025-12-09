@@ -1,3 +1,5 @@
 # Zihou Yin's Portfolio
 
-Welcome! Work in progress.
+## Projects
+
+- [Project 3 – When and Where Do New Yorkers Complain About Noise?](Project 3.html)
